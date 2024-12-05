@@ -150,12 +150,6 @@
         "videoUrl": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8"
     },
     {
-        "name": "POGO",
-        "category": "Kids",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIr4uSDTgGgLF9JSeeiuxsJSpWQvy5_oX0g&s",
-        "videoUrl": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8"
-    },
-    {
         "name": "9XJALWA",
         "category": "Music",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6WW_qcY5KtY4-0j7y-fhOs0NTjM4e9CBlw&s",
@@ -309,7 +303,7 @@
         "name": "Zeetv HD",
         "category": "Entertainment",
         "imageUrl": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
-        "videoUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8"
+        "videoUrl": "https://la.drmlive.au/tp/zee-zeetvhd.m3u8"
     },
     {
         "name": " Zee Marathi",
