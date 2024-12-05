@@ -1,11 +1,5 @@
 [
     {
-        "name": "Cartoon Network Hindi",
-        "category": "Kids",
-        "imageUrl": "https://i.imgur.com/ltSiLho.png",
-        "videoUrl": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
-    },
-    {
         "name": "ABP News",
         "category": "News",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",
@@ -72,22 +66,16 @@
         "videoUrl": "https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8"
     },
     {
-        "name": "SONY MARATHI",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPBpAWCQ2XIAG9bm_ucmOynLhFRBRXSA-3ZA&s",
-        "videoUrl": "https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8"
-    },
-    {
         "name": "&TV HD",
         "category": "Entertainment",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9TbcxD0Jkks344dHfkxRw5B_07floLcloQ&s",
-        "videoUrl": "https://dai.google.com/ssai/event/gsfwKz83TGOa7Mv-RswgaA/master.m3u8"
+        "videoUrl": "https://la.drmlive.au/tp/zee-tvhd_0.m3u8"
     },
     {
         "name": "& Pic HD",
         "category": "Movies",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxBE6fMh4COB_NHyL_7qbFHnFFYGYszRd1A&s",
-        "videoUrl": "https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8"
+        "videoUrl": "https://la.drmlive.au/tp/zee-pictures.m3u8"
     },
     {
         "name": "Zee Anmol",
@@ -106,18 +94,6 @@
         "category": "Music",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqLmGJeUjRAlquk_iS4Uwb_ikyeF6lXLeAw&s",
         "videoUrl": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-    },
-    {
-        "name": "F TV",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB4tylkTDQjn6l58E7etpKAp8lDhI9v3kCqA&s",
-        "videoUrl": "https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8"
-    },
-    {
-        "name": "Fitness PLUS",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwkXjbg3RhBPpDO1EEucXjcRknT2Ga6NKkA&usqp=CAU",
-        "videoUrl": "https://streamer103.neterra.tv/wness/wness_SD.m3u8"
     },
     {
         "name": "Discovery hd",
