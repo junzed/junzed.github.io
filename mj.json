@@ -54,7 +54,7 @@
         "videoUrl": "https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8"
     },
     {
-        "name": "SONY WAW",
+        "name": "SONY WAH",
         "category": "Entertainment",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqoaE-vulMpQh6iqhYMGxb0OHUscRXo2EyQ&s",
         "videoUrl": "https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8"
@@ -264,24 +264,6 @@
         "videoUrl": "https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd"
     },
     {
-        "name": "Tv9 Marathi",
-        "category": "News",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCi4nXVSauke5n65B81J0wvwjIwsvVMbZ--w&s",
-        "videoUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8"
-    },
-    {
-        "name": "Colors TamilHD",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuuOvJTR16BVJ6wzi0w2qjoRbA9qgRUrUOg&s",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8"
-    },
-    {
-        "name": "Colors Marathi",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRam2ZNKk3ciMTVHfWq2u1PsNP2hwXzkuFW2w&s",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8"
-    },
-    {
         "name": "SonicNick ninja hattori",
         "category": "Kids",
         "imageUrl": "https://www.bing.com/th/id/OGC.01cde02455438bac5a4e6f37b28d5bca?pid=1.7&rurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5649f3d2e4b0c4ad07cab139%2f1464004310914-8FQZBIZWYU4KTNBWINX0%2fSonic_Spark.gif%3fformat%3d1500w&ehk=DPFnSZCTzQTth6HVQG131iWxYNTgn7ju6C5nE%2bn%2bjkI%3d",
@@ -387,7 +369,7 @@
         "name": "Zing",
         "category": "Movies",
         "imageUrl": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png",
-        "videoUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8"
+        "videoUrl": "https://la.drmlive.au/tp/zee-zing.m3u8"
     },
     {
         "name": "Zee Action",
@@ -406,30 +388,6 @@
         "category": "Kids",
         "imageUrl": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",
         "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8"
-    },
-    {
-        "name": "History TV18 HD",
-        "category": "Entertainment",
-        "imageUrl": "http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
-        "videoUrl": "https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=146&e=.m3u"
-    },
-    {
-        "name": "Zee Yuva",
-        "category": "Entertainment",
-        "imageUrl": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
-        "videoUrl": "https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=414&e=.m3u"
-    },
-    {
-        "name": "Zee Action",
-        "category": "Movies",
-        "imageUrl": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",
-        "videoUrl": "https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=488&e=.m3u"
-    },
-    {
-        "name": "sony aath",
-        "category": "Entertainment",
-        "imageUrl": "https://origin-staticv2.sonyliv.com/videoasset_images/sony_aath_23oct_circular_thumb.jpg",
-        "videoUrl": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8"
     },
     {
         "name": "SONY SIX HD",
@@ -472,12 +430,6 @@
         "category": "Sports",
         "imageUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
         "videoUrl": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8"
-    },
-    {
-        "name": "SONY WAH",
-        "category": "Entertainment",
-        "imageUrl": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
-        "videoUrl": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8"
     },
     {
         "name": "ok",
