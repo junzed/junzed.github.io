@@ -114,10 +114,10 @@
         "videoUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
     },
     {
-        "name": "JaiMaharashtra",
+        "name": "TEST",
         "category": "News",
         "imageUrl": "https://i.imgur.com/nAv3icS.png",
-        "videoUrl": "https://ythls.armelin.one/channel/UCmBLIcqOLWwrrAJ-jaCttqw.m3u8"
+        "videoUrl": "https://astrhtml.vercel.app/"
     },
     {
         "name": "Inh Hindi News",
