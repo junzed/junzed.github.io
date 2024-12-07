@@ -324,10 +324,11 @@
         "videoUrl": "https://allinonereborn.com/4ktv/m3u.php?id=21885"
     },
     {
-        "name": "STAR SPORTS HINDI HD",
+        "name": "STAR SPORTS HD",
         "category": "Sports",
         "imageUrl": "http://tv.tvzon.tv/stalker_portal/misc/logos/320/61254.png",
-        "videoUrl": "https://allinonereborn.com/4ktv/m3u.php?id=65058"
+        "videoUrl": "https://la.drmlive.au/tp/78.mpd"
+        "licenseUrl": "https://la.drmlive.au/tp/tpck?id=78"
     },
     {
         "name": "Zee Bollywood",
