@@ -96,28 +96,16 @@
         "videoUrl": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
     },
     {
-        "name": "Discovery hd",
-        "category": "Kids",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVn1U2kUQwhu_z8Xa6I9rzxg3X1sIsiW55eA&usqp=CAU",
-        "videoUrl": "https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8"
-    },
-    {
         "name": "Saga Music",
         "category": "Music",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJbz501D3eMb5GnNPVnPNe_Bc-uCyZpo6qg&s",
         "videoUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8"
     },
     {
-        "name": "9XJhakaas",
+        "name": "9X Jhakaas",
         "category": "Music",
         "imageUrl": "https://i.imgur.com/aZ0f85I.png",
         "videoUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
-    },
-    {
-        "name": "TEST",
-        "category": "News",
-        "imageUrl": "https://i.imgur.com/nAv3icS.png",
-        "videoUrl": "https://astrhtml.vercel.app/"
     },
     {
         "name": "Inh Hindi News",
@@ -134,14 +122,8 @@
     {
         "name": "Zee News",
         "category": "News",
-        "imageUrl": "https://i.imgur.com/aZ0f85I.png",
+        "imageUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
         "videoUrl": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
-    },
-    {
-        "name": "pop",
-        "category": "Music",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hsymxFNrBg2t7qcB2aeZp0JCVgkD0FPlZQ&s",
-        "videoUrl": "https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8"
     },
     {
         "name": "Bollywood Hungama",
@@ -150,55 +132,31 @@
         "videoUrl": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8"
     },
     {
-        "name": "9XJALWA",
+        "name": "9X JALWA",
         "category": "Music",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6WW_qcY5KtY4-0j7y-fhOs0NTjM4e9CBlw&s",
         "videoUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
     },
     {
-        "name": "ABP MAZA",
-        "category": "News",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczihAa-iYre14fKLpPulWC5ZwEAGa31riKQ&s",
-        "videoUrl": "https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8"
-    },
-    {
-        "name": "Mastii",
-        "category": "Music",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeIRLawCGYpjeZQj5_fFOJttsB0k2jJufSw&s",
-        "videoUrl": "https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8"
-    },
-    {
-        "name": "Free Cartoon",
+        "name": "PBS Kids",
         "category": "Kids",
         "imageUrl": "https://cdnl.iconscout.com/lottie/premium/thumb/404-error-page-3959253-3299952.gif",
         "videoUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     },
     {
-        "name": "DK",
+        "name": "DISCOVERY KIDS",
         "category": "Kids",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZVCtV8t03C9FcXixmwmD82ywIsFuTiL1Vg&s",
         "videoUrl": "https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8"
     },
     {
-        "name": "animal planet",
+        "name": "Animal Planet",
         "category": "Kids",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffGw5B3OAuiHiB70ywCcLNqvbW8AHIAbuJw&s",
         "videoUrl": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8"
     },
     {
-        "name": "HGTV",
-        "category": "Entertainment",
-        "imageUrl": "https://cdn.dribbble.com/users/1600801/screenshots/3305058/____404.gif",
-        "videoUrl": "http://port.denver1769.in/ulpl7.php?tv=4886"
-    },
-    {
-        "name": "T Sports",
-        "category": "Sports",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYeyI-EKK8vG1ZqpI3cw4qKua6yyEoFZB_w&s",
-        "videoUrl": "http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w155573767.m3u8"
-    },
-    {
-        "name": "Sony ten",
+        "name": "Sony Ten",
         "category": "Sports",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UTeBi0zpV0hmIftX7l-rEKQ5iB2Fv4PdsQ&s",
         "videoUrl": "https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
@@ -210,82 +168,16 @@
         "videoUrl": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
     },
     {
-        "name": "Discovery Science",
-        "category": "Kids",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwnaa_hZ0iK67UbA2dCLEj3u2ePB59gdlGw&s",
-        "videoUrl": "https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8"
-    },
-    {
-        "name": "Discovery ID",
-        "category": "Entertainment",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",
-        "videoUrl": "https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8"
-    },
-    {
-        "name": "One News",
-        "category": "News",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsKSTZ1GiiYIO-sMSneX4UUvNurkTcO-L84w&s",
-        "videoUrl": "https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8"
-    },
-    {
-        "name": "shemaroomarathibana",
-        "category": "Movies",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3tbuiHNez8x41IULz_rAhr9nxG9Fhch6Yg&s",
-        "videoUrl": "https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd"
-    },
-    {
-        "name": "SonicNick ninja hattori",
-        "category": "Kids",
-        "imageUrl": "https://www.bing.com/th/id/OGC.01cde02455438bac5a4e6f37b28d5bca?pid=1.7&rurl=https%3a%2f%2fimages.squarespace-cdn.com%2fcontent%2fv1%2f5649f3d2e4b0c4ad07cab139%2f1464004310914-8FQZBIZWYU4KTNBWINX0%2fSonic_Spark.gif%3fformat%3d1500w&ehk=DPFnSZCTzQTth6HVQG131iWxYNTgn7ju6C5nE%2bn%2bjkI%3d",
-        "videoUrl": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8"
-    },
-    {
-        "name": "ColorsHD",
+        "name": "Colors HD",
         "category": "Entertainment",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOqbKCeeqLTgCR1qej45PmdVUd1-CcsdMZI9hA8did7DLuLD063hOn9M&s=10",
         "videoUrl": "https://drmlive.in/voot/144.m3u8"
-    },
-    {
-        "name": "Colors Rishtey",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1RHtMLi0erXijw9yTkMilCSzuvitvmov4Q&s",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8"
-    },
-    {
-        "name": "Colors Cineplex Bollywood",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKnBISzfwGQ1l6wc8QSCTjaA1E8yKAADZQtA&s",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8"
-    },
-    {
-        "name": "Nick Jr",
-        "category": "Kids",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLlOZ7l_2be3XDOFglcCObu8WA9c8Ohj6_Eg&s",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8"
     },
     {
         "name": "Gubbare",
         "category": "Kids",
         "imageUrl": "https://www.gubbaretv.com/wp-content/uploads/2020/11/logo-mobile.png",
         "videoUrl": "https://epiconvh.s.llnwi.net/gubbare/master.m3u8"
-    },
-    {
-        "name": "Colors Rishtey",
-        "category": "Entertainment",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUX_Jhi0oC59eL3G3_gIZst-7jh_k_c161n4yJsub4a5LEln3Ln7uxXh8K&s=10p1",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8"
-    },
-    {
-        "name": "MTV HD",
-        "category": "Music",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-65S09B9W93pDUAZy7UYpt4JqEJEoETQmQ&s",
-        "videoUrl": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8"
-    },
-    {
-        "name": "Inh Hindi News",
-        "category": "News",
-        "imageUrl": "https://i.imgur.com/aZ0f85I.png",
-        "videoUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8"
     },
     {
         "name": "& Pictures HD",
@@ -300,22 +192,10 @@
         "videoUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8"
     },
     {
-        "name": "Zeetv HD",
+        "name": "ZeeTv HD",
         "category": "Entertainment",
         "imageUrl": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
         "videoUrl": "https://la.drmlive.au/tp/zee-zeetvhd.m3u8"
-    },
-    {
-        "name": " Zee Marathi",
-        "category": "Entertainment",
-        "imageUrl": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8846-j7pq3jmo-v2/imageContent-8846-j7pq3jmo-m3.png",
-        "videoUrl": "https://drmlive.in/jiotv/play.php?id=527"
-    },
-    {
-        "name": "Zee Talkies HD",
-        "category": "Entertainment",
-        "imageUrl": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",
-        "videoUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8"
     },
     {
         "name": "STAR SPORTS HINDI HD",
@@ -356,12 +236,6 @@
         "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8"
     },
     {
-        "name": "Nick HD+",
-        "category": "Kids",
-        "imageUrl": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",
-        "videoUrl": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8"
-    },
-    {
         "name": "SONY SIX HD",
         "category": "Sports",
         "imageUrl": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
@@ -388,7 +262,7 @@
     {
         "name": "SONY TEN 1",
         "category": "Sports",
-        "imageUrl": "httpss://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+        "imageUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
         "videoUrl": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8"
     },
     {
