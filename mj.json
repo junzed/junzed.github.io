@@ -285,7 +285,7 @@
         "name": "Hum World",
         "category": "Entertainment",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
-        "videoUrl": "https://208.86.19.13:81/508.stream/index.mpd"
+        "videoUrl": "https://208.86.19.13/508.stream/index.m3u8"
     },
     {
         "name": "",
