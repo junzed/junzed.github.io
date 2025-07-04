@@ -69,7 +69,7 @@
         "name": "&TV HD",
         "category": "Entertainment",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9TbcxD0Jkks344dHfkxRw5B_07floLcloQ&s",
-        "videoUrl": "https://la.drmlive.au/tp/zee-tvhd_0.m3u8"
+        "videoUrl": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
     },
     {
         "name": "& Pic HD",
@@ -288,10 +288,10 @@
         "videoUrl": "http://208.86.19.13/508.stream/index.m3u8"
     },
     {
-        "name": "CHHAAWA",
+        "name": "LocalVideo",
         "category": "Movies",
         "imageUrl": "https://www.gubbaretv.com/wp-content/uploads/2020/11/logo-mobile.png",
-        "videoUrl": "http://192.168.105.1:8080"
+        "videoUrl": "http://10.37.173.196:8889"
     },
     {
         "name": "",
