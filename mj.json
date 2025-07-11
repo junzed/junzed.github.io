@@ -282,10 +282,10 @@
         "videoUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
     },
     {
-        "name": "Hum World",
+        "name": "NewMovie",
         "category": "Entertainment",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
-        "videoUrl": "http://208.86.19.13/508.stream/index.m3u8"
+        "videoUrl": "https://hses2.hotstar.com/videos/movies/hindi/chhapaak/1260020620/1581495473648/867f68283283a19a808bd74c4026b158/video/avc1/8/index.m3u8"
     },
     {
         "name": "LocalVideo",
