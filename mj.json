@@ -195,7 +195,7 @@
         "name": "ZeeTv HD",
         "category": "Entertainment",
         "imageUrl": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
-        "videoUrl": "https://la.drmlive.au/tp/zee-zeetvhd.m3u8"
+        "videoUrl": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1752373273~acl=%2f*~data=hdntl~hmac=be75c4f95df6c009cc367acd0ca8bb6c2c8e6191075e75e45f0eb60af4380a73"
     },
     {
         "name": "STAR SPORTS HINDI HD",
