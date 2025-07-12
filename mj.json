@@ -7522,5 +7522,383 @@
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36",
         "cookie": ""
+    },
+    {
+        "name": "Ary Digital",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed",
+        "licenseUrl": "83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Hum Tv",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=4150a88a441372bcc8899aee17df71f9:e43b95c25267faea20b2582e978f7f70",
+        "licenseUrl": "4150a88a441372bcc8899aee17df71f9:e43b95c25267faea20b2582e978f7f70",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Geo Entertainment",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=1ab9491349c9b6217b8e7cec08e6b5a3:f37b1bbe691db067003522b053251945",
+        "licenseUrl": "1ab9491349c9b6217b8e7cec08e6b5a3:f37b1bbe691db067003522b053251945",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Bol Entertainment",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-entertainment.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=b7a0caf4ffb4b8010eeb51558ca2d29a:26220c96f83015d580f455baa4dbfe20",
+        "licenseUrl": "b7a0caf4ffb4b8010eeb51558ca2d29a:26220c96f83015d580f455baa4dbfe20",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Ary Zindagi",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ARY-Zindagi.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=b6be026722c0e0f5d3b6fe4b32e51734:bd3a91241ac6c52999ada34f8fa73a38",
+        "licenseUrl": "b6be026722c0e0f5d3b6fe4b32e51734:bd3a91241ac6c52999ada34f8fa73a38",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Geo Kahani",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=a7c70965dd6e0138bba0e754a782ba76:4f78ca41cda11fb207631815f0d414f4",
+        "licenseUrl": "a7c70965dd6e0138bba0e754a782ba76:4f78ca41cda11fb207631815f0d414f4",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Geo News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=5fa84110cc26554aeb7c9530e4a2b980:8abac986087083230fcdc1a3b365e74a",
+        "licenseUrl": "5fa84110cc26554aeb7c9530e4a2b980:8abac986087083230fcdc1a3b365e74a",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Ary News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=fb1e0185d33f69df1187da4cb2fcf390:9da941665723e2e21d422d113e3e3eca",
+        "licenseUrl": "fb1e0185d33f69df1187da4cb2fcf390:9da941665723e2e21d422d113e3e3eca",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Dunya News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/dunya.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=45f5c3607b89a29e9b7495eb011a3b0e:3f2aaf642deeb4ead9daa9c941bac1e8",
+        "licenseUrl": "45f5c3607b89a29e9b7495eb011a3b0e:3f2aaf642deeb4ead9daa9c941bac1e8",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Bol News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/bol-news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=be2bd90ba46603e147f7e2c75ed367bf:d826e19c7a637a80d3ba9299ad2b822d",
+        "licenseUrl": "be2bd90ba46603e147f7e2c75ed367bf:d826e19c7a637a80d3ba9299ad2b822d",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Aaj News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aaj%20news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575",
+        "licenseUrl": "9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Ptv Sports",
+        "category": "Sports",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2",
+        "licenseUrl": "7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Geo Super",
+        "category": "Sports",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-super.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3",
+        "licenseUrl": "ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Fast Sports HD",
+        "category": "Sports",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjmoUatVnbQsL-NNHSj2L9zjbbMg92x5pNA&s",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6",
+        "licenseUrl": "4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Criclife 2",
+        "category": "Sports",
+        "imageUrl": "https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/criclife2.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209",
+        "licenseUrl": "bb0c6b6f0e2c873a174e63e16f3a3f62:a8c4fae3ea8023b51707e470ec336209",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "B4U Movies",
+        "category": "Movies",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/B4Umovies.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=501c219f6640b42b454a1fc3bda48a7e:d547a7eaac74ae83cadcaddb6243978f",
+        "licenseUrl": "501c219f6640b42b454a1fc3bda48a7e:d547a7eaac74ae83cadcaddb6243978f",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Film World",
+        "category": "Movies",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Film-World.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87",
+        "licenseUrl": "eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Filmax",
+        "category": "Movies",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/filmax.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9",
+        "licenseUrl": "ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Kids Zone Plus",
+        "category": "Kids",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/kids-Zone.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=55f8fb7e199225c06268117fe3ff232a:30f8dcb48a1b4a7b60ae04b88fe5397a",
+        "licenseUrl": "55f8fb7e199225c06268117fe3ff232a:30f8dcb48a1b4a7b60ae04b88fe5397a",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Planet Fun",
+        "category": "Kids",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Planet-Fun.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=034c919e34f1de07c325a7b23ad451a0:cf88732938381b02d3fbfa09de6860ae",
+        "licenseUrl": "034c919e34f1de07c325a7b23ad451a0:cf88732938381b02d3fbfa09de6860ae",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Minimax",
+        "category": "Kids",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/minimax.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35",
+        "licenseUrl": "7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "8 XM",
+        "category": "Music",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/8XM.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=06a8aac1edf5574817efa6903759e24c:cc1ce0c7195d763cd59e2b90d7176f78",
+        "licenseUrl": "06a8aac1edf5574817efa6903759e24c:cc1ce0c7195d763cd59e2b90d7176f78",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Express Entertainment",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=54aa47ddf8d6cbc147b7e61854d06dbb:afbef7ea4cce38bd7c84303bb7246756",
+        "licenseUrl": "54aa47ddf8d6cbc147b7e61854d06dbb:afbef7ea4cce38bd7c84303bb7246756",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "A Plus",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/A-Plus_TV_Logo.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=cf56a165967418484e82689dd48432b2:bbea8c027a9008b08e50f532ea8f0b8d",
+        "licenseUrl": "cf56a165967418484e82689dd48432b2:bbea8c027a9008b08e50f532ea8f0b8d",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Urdu 1",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/urdu-1.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=c99a24c82f16a3792bd21a262fea52a0:bf418e034623e18dc0102dc3731e43d8",
+        "licenseUrl": "c99a24c82f16a3792bd21a262fea52a0:bf418e034623e18dc0102dc3731e43d8",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "LTN Family",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/LTN-Family.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=b9f250ad063063dce2b66bc97b8a7be3:9b4b55014b2cccf176a3388ef79d20ec",
+        "licenseUrl": "b9f250ad063063dce2b66bc97b8a7be3:9b4b55014b2cccf176a3388ef79d20ec",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Aaj Entertainment",
+        "category": "Entertainment",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/aaj-entertainment.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=3cc797eec44e9de28e0383d6f8053ef1:a27a46fc0b462ee9d35845b086284728",
+        "licenseUrl": "3cc797eec44e9de28e0383d6f8053ef1:a27a46fc0b462ee9d35845b086284728",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Express News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/express-news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=b1c67ca001fd4c7d72ea38291d0c36ea:8b1462cce1f9e03305d7d6df3409cb6b",
+        "licenseUrl": "b1c67ca001fd4c7d72ea38291d0c36ea:8b1462cce1f9e03305d7d6df3409cb6b",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Hum News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/hum-news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=971afc4c7b4a29686ee22a282f50e9da:f204a8ed43fb4efd3cea8115b56f5884",
+        "licenseUrl": "971afc4c7b4a29686ee22a282f50e9da:f204a8ed43fb4efd3cea8115b56f5884",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Abb Takk News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abb-tak.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=a77b3c9d1a352d759aa88c6d2490b07d:dfd749936ca6fbdbb580135cd2bc623e",
+        "licenseUrl": "a77b3c9d1a352d759aa88c6d2490b07d:dfd749936ca6fbdbb580135cd2bc623e",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "News One",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/news-one.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=1e81332129957ee4b3b16ebf04abcb45:92754de589fbd6d3b288bb30d66c7e06",
+        "licenseUrl": "1e81332129957ee4b3b16ebf04abcb45:92754de589fbd6d3b288bb30d66c7e06",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Dawn News",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Dawn-news.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=8508ff2a5f04345f3353e112d7ce2c09:73ed2d9eb8287f8a56b73e6243c57755",
+        "licenseUrl": "8508ff2a5f04345f3353e112d7ce2c09:73ed2d9eb8287f8a56b73e6243c57755",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Neo TV",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/NEO.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=c452271b17b1bccf977ae176c327544d:077da319f1718d2ec989a528bdd62b5f",
+        "licenseUrl": "c452271b17b1bccf977ae176c327544d:077da319f1718d2ec989a528bdd62b5f",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Geo Taiz",
+        "category": "News",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Geo-taiz.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=862f51c48d8e562377602b63393215ef:9b96cb09903396cb5cfaa7253b103d26",
+        "licenseUrl": "862f51c48d8e562377602b63393215ef:9b96cb09903396cb5cfaa7253b103d26",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Lahore News HD",
+        "category": "Regional",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Lahore-News.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=3bb15c2db2a7bf86ffa5375cd308e2aa:c58cfa4890b72b939bfd64c95f94f7aa",
+        "licenseUrl": "3bb15c2db2a7bf86ffa5375cd308e2aa:c58cfa4890b72b939bfd64c95f94f7aa",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "City 42",
+        "category": "Regional",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/city-42.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=c1ac1dd655f85140d18f7c0fc2617345:9ecaefa3a20f1a7b7b157633832a79a3",
+        "licenseUrl": "c1ac1dd655f85140d18f7c0fc2617345:9ecaefa3a20f1a7b7b157633832a79a3",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "City 21",
+        "category": "Regional",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/City-21.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=3e6eb6c5fc1753defa332911efb51f74:2eb8d7fa82d8e1d2c08aecb26ce109fd",
+        "licenseUrl": "3e6eb6c5fc1753defa332911efb51f74:2eb8d7fa82d8e1d2c08aecb26ce109fd",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Aan TV",
+        "category": "Regional",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=c00da2a838a8989bc26e314dd7fb3775:1e4c2a8c011e138a2190ab19c2b30f86",
+        "licenseUrl": "c00da2a838a8989bc26e314dd7fb3775:1e4c2a8c011e138a2190ab19c2b30f86",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Discovery Science",
+        "category": "Education",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discovery-science.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=93c6258dbedced1dab30a88d89c32557:113607765a0faaa15a2cea43a0697453",
+        "licenseUrl": "93c6258dbedced1dab30a88d89c32557:113607765a0faaa15a2cea43a0697453",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Discover Pakistan",
+        "category": "Education",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/discover-pakistan.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=9b4be48e99f2f376cc19004b813202a2:cc100b986e8c6f0da97268f9390da5d1",
+        "licenseUrl": "9b4be48e99f2f376cc19004b813202a2:cc100b986e8c6f0da97268f9390da5d1",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "QTV",
+        "category": "Religious",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/qtv.png",
+        "videoUrl": "#KODIPROP:inputstream.adaptive.license_key=3a15c0eb8af0f8dbf3ce80f2e8a4ad3f:2f1221c47815d301f217e5a70a2040da",
+        "licenseUrl": "3a15c0eb8af0f8dbf3ce80f2e8a4ad3f:2f1221c47815d301f217e5a70a2040da",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "Paigham TV",
+        "category": "Religious",
+        "imageUrl": "https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/paigham-tv.png",
+        "videoUrl": "https://live2.shoq.com.pk/live/eds/Paigham_TV/DASH/Paigham_TV.mpd",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
     }
 ]
