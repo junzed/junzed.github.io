@@ -13260,7 +13260,34 @@
         "name": "Sony Aath",
         "category": "Entertainment",
         "imageUrl": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5404: Not Found",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg\" group-title=\"Fancode-Tennis\", Centre Court vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+        "category": "Fancode-Tennis",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140345_english_hls_b6989b8f0969295_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg\" group-title=\"Fancode-Tennis\", New Court - 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+        "category": "Fancode-Tennis",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140892_english_hls_60594c69a189175_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg\" group-title=\"Fancode-Tennis\", World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+        "category": "Fancode-Tennis",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+        "videoUrl": "404: Not Found",
         "licenseUrl": "",
         "useragent": "",
         "cookie": ""
