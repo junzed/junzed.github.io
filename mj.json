@@ -13260,16 +13260,7 @@
         "name": "Sony Aath",
         "category": "Entertainment",
         "imageUrl": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1772101521~acl=/*~id=64366622277738296594966976299237~hmac=1905b31f80d374f5ec6c0941fb0f6b1fd843a5c974267990df43fa6c5abf3740",
-        "licenseUrl": "",
-        "useragent": "",
-        "cookie": ""
-    },
-    {
-        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png\" group-title=\"Fancode-Tennis\", Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-        "category": "Fancode-Tennis",
-        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-        "videoUrl": "404: Not Found",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1772101521~acl=/*~id=64366622277738296594966976299237~hmac=1905b31f80d374f5ec6c0941fb0f6b1fd843a5c974267990df43fa6c5abf3740404: Not Found",
         "licenseUrl": "",
         "useragent": "",
         "cookie": ""
