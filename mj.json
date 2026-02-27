@@ -9198,9 +9198,54 @@
         "cookie": ""
     },
     {
-        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png\" group-title=\"Fancode-Tennis\", Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/140673_5970_JPN_BHU_fc-web.jpg\" group-title=\"Fancode-Cricket\", Japan vs Bhutan (Thailand Open Men's T20I Series 2026)",
+        "category": "Fancode-Cricket",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/140673_5970_JPN_BHU_fc-web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140673_english_hls_5cad73958e85788_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg\" group-title=\"Fancode-Tennis\", World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
         "category": "Fancode-Tennis",
-        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140355_english_hls_f0d1a215da37548_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg\" group-title=\"Fancode-Tennis\", Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+        "category": "Fancode-Tennis",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140354_english_hls_3a3bb01d3780775_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg\" group-title=\"Fancode-Tennis\", Cancha 1 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+        "category": "Fancode-Tennis",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140841_english_hls_27166d353e85871_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg\" group-title=\"Fancode-Tennis\", Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+        "category": "Fancode-Tennis",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140840_english_hls_f20d9e132f35042_1ta-di_h264/index.m3u8",
+        "licenseUrl": "",
+        "useragent": "",
+        "cookie": ""
+    },
+    {
+        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png\" group-title=\"Fancode-MotoGP\", Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+        "category": "Fancode-MotoGP",
+        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
         "videoUrl": "404: Not Found",
         "licenseUrl": "",
         "useragent": "",
@@ -9219,7 +9264,7 @@
         "name": "Sоnу SET HD",
         "category": "Entertainment",
         "imageUrl": "https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-300x300.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9228,7 +9273,7 @@
         "name": "Sоnу SAB HD",
         "category": "Entertainment",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9237,7 +9282,7 @@
         "name": "Sоnу Marathi",
         "category": "Entertainment",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9246,7 +9291,7 @@
         "name": "Sоnу Pal",
         "category": "Entertainment",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9264,7 +9309,7 @@
         "name": "Sоnу Aath",
         "category": "Entertainment",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-AATH-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9273,7 +9318,7 @@
         "name": "Sоnу Yay",
         "category": "Kids",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9282,7 +9327,7 @@
         "name": "Sоnу MAX HD",
         "category": "Movies",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9291,7 +9336,7 @@
         "name": "Sоnу MAX",
         "category": "Movies",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9300,7 +9345,7 @@
         "name": "Sоnу MAX 2",
         "category": "Movies",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9309,7 +9354,7 @@
         "name": "Sоnу WAH",
         "category": "Movies",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9318,7 +9363,7 @@
         "name": "Sоnу PIX HD",
         "category": "Movies",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9327,7 +9372,7 @@
         "name": "Sоnу BBC Earth HD",
         "category": "Infotainment",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9336,7 +9381,7 @@
         "name": "Sоnу Sports Ten 1",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9345,7 +9390,7 @@
         "name": "Sоnу Sports Ten 2",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9354,7 +9399,7 @@
         "name": "Sоnу Sports Ten 3",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9363,7 +9408,7 @@
         "name": "Sоnу Sports Ten 4",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9372,7 +9417,7 @@
         "name": "Sоnу Sports Ten 5",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9381,7 +9426,7 @@
         "name": "Sоnу Sports Ten 1 HD",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9390,7 +9435,7 @@
         "name": "Sоnу Sports Ten 2 HD",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9399,7 +9444,7 @@
         "name": "Sоnу Sports Ten 3 HD",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
@@ -9408,7 +9453,7 @@
         "name": "Sоnу Sports Ten 4 HD",
         "category": "Sports",
         "imageUrl": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png",
-        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1772161983~acl=%2f*~id=489e2d68-75f7-4d07-a816-d863e1fdb564~data=hdntl~hmac=91f1b927fb0f6eb211404d4755397d756d055fc6568419d6b7fec52eb8d7d70b/master_3500.m3u8",
+        "videoUrl": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1772227143~acl=%2f*~id=e3976aa7-a28f-471c-8284-fbe4a47ce48f~data=hdntl~hmac=b37fda8c293c68b3a6dc002d73d01e68357aab778859d3c5049fd8c8ea0b26f6/master_3500.m3u8",
         "licenseUrl": "",
         "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
         "cookie": ""
