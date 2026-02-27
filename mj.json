@@ -9207,15 +9207,6 @@
         "cookie": ""
     },
     {
-        "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg\" group-title=\"Fancode-Tennis\", Centre Court vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
-        "category": "Fancode-Tennis",
-        "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
-        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8",
-        "licenseUrl": "",
-        "useragent": "",
-        "cookie": ""
-    },
-    {
         "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png\" group-title=\"Fancode-Golf\", Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
         "category": "Fancode-Golf",
         "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
@@ -9247,15 +9238,6 @@
         "category": "Fancode-Golf",
         "imageUrl": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
         "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di_h264/index.m3u8",
-        "licenseUrl": "",
-        "useragent": "",
-        "cookie": ""
-    },
-    {
-        "name": "tvg-logo=\" https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg\" group-title=\"Fancode-Tennis\", World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
-        "category": "Fancode-Tennis",
-        "imageUrl": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
-        "videoUrl": "https://in-mc-fdlive.fancode.com/mumbai/140902_english_hls_fef36d5c5380265_1ta-di_h264/index.m3u8",
         "licenseUrl": "",
         "useragent": "",
         "cookie": ""
