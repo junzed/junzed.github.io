@@ -11,7 +11,7 @@ https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575
 https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1790402912~acl=/*~id=07807210404053183118826857857229~hmac=d52d9d231579ab9be6e2d0dea93b4abcb7f6612d4f5c9623a581d19ea8f98ad6",
 
 #EXTINF:-1 tvg-id="sony-max" tvg-chno="2" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max
-https://allinonereborn2.online/sony-new/playlists/sony_max.m3u8
+https://cdn.jsdelivr.net/gh/cinexcricket/bb18-1080p@main/stream.m3u8
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-chno="3" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinema.png",Zee Cinema
 #KODIPROP:inputstream=inputstream.adaptive
