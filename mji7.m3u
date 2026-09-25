@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="smaxhd" tvg-chno="1" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
-https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1790337038~acl=/*~id=ef39a86970ccb7342336b3709408f75b-1790293803104~hmac=853f859b29f3d092cad6b7daf422485a436c7c06435ffe7f8ed6d42954e640f7
+https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1790402912~acl=/*~id=07807210404053183118826857857229~hmac=d52d9d231579ab9be6e2d0dea93b4abcb7f6612d4f5c9623a581d19ea8f98ad6",
 
 #EXTINF:-1 tvg-id="sony-max" tvg-chno="2" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max
 https://allinonereborn2.online/sony-new/playlists/sony_max.m3u8
