@@ -8,10 +8,10 @@
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?|cookie=hdntl=exp=1790417690~acl=%2f*~id=f79114daf3487e1156daefcc52f01821~data=hdntl~hmac=4850fb3c2c6db4a1d4005139ea93df5bf74a82121ac4cec73253a5d072ba1608&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
 #EXTINF:-1 tvg-id="smaxhd" tvg-chno="1" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
-https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1790402912~acl=/*~id=07807210404053183118826857857229~hmac=d52d9d231579ab9be6e2d0dea93b4abcb7f6612d4f5c9623a581d19ea8f98ad6",
+https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1790664524~acl=/*~id=09251930425306192483198220477684~hmac=7e96d05cab72606cda6c4e81c32f3fc1a316d3e1cd29a93406b0da3d8bb27430
 
 #EXTINF:-1 tvg-id="sony-max" tvg-chno="2" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max
-https://cdn.jsdelivr.net/gh/cinexcricket/bb18-1080p@main/stream.m3u8
+https://jio-tv-by-cinearena.pages.dev/?id=144
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-chno="3" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinema.png",Zee Cinema
 #KODIPROP:inputstream=inputstream.adaptive
