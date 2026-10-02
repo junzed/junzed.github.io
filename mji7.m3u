@@ -3,7 +3,7 @@
 https://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
 
 #EXTINF:-1 tvg-id="sony-max" tvg-chno="2" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max
-https://allinonereborn2.online/sony-new/playlists/sony_max.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd?__hdnea__=st=1790964009~exp=1790985609~acl=/*~hmac=64db98ed5caaf9a2084e885e94d03e3e79807fa8fc83995f7e11fc3900c2662c
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-chno="3" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinema.png",Zee Cinema
 #KODIPROP:inputstream=inputstream.adaptive
